@@ -1,0 +1,83 @@
+# We fly — Generative Engine Optimization Map
+
+> A comprehensive travel planning website tailored for Israeli travelers heading abroad. The platform guides users step-by-step through the full trip planning process: choosing a destination country and region, finding flights and airports, selecting accommodations (including camping options), and filtering dining options by kosher or non-kosher preferences. The overall vision is an organized, structured trip planner that covers every detail from departure to return.
+
+---
+
+## Pages
+
+### בית
+https://we-fly-d228e938.zappy5.app
+שירות תכנון טיולים מקיף בעברית לישראלים שטסים לחו״ל. בחרו יעד, טיסה, לינה ואוכל כשר או לא – הכול במקום אחד מסודר ונוח. התחילו לתכנן את ההרפתקה הבאה שלכם עוד היום!
+
+### תכנון טיול
+https://we-fly-d228e938.zappy5.app/trip-planning
+עמוד תכנון הטיול המרכזי שלכם: בחירת מדינה ואזור, השוואת טיסות ושדות תעופה, והזמנת מקומות לינה כולל קמפינג. שירותי תכנון טיולים שהופכים רעיון לחוויה אמיתית. צאו לדרך!
+
+### סגנונות טיול ואוכל
+https://we-fly-d228e938.zappy5.app/travel-styles-dining
+גלו סגנונות טיול שמתאימים לכם ובחרו אפשרויות אוכל – כשר או לא – בקלות. עסק לתכנון טיולים ששם דגש על החוויה האישית שלכם מחוף הים ועד המסעדה. בואו לעצב את הטיול המושלם!
+
+### צור קשר
+https://we-fly-d228e938.zappy5.app/contact
+יש שאלות על תכנון הטיול הקרוב? צרו קשר עם צוות We fly ונשמח לעזור לכם לבנות חופשה מותאמת אישית, משלב הרעיון ועד הנחיתה. שירותי תכנון טיולים שתמיד זמינים עבורכם!
+
+### תודה שפניתם אלינו
+https://we-fly-d228e938.zappy5.app/thank-you
+We fly - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://we-fly-d228e938.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://we-fly-d228e938.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://we-fly-d228e938.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://we-fly-d228e938.zappy5.app/contact
+- Endpoint: https://we-fly-d228e938.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About We fly
+A comprehensive travel planning website tailored for Israeli travelers heading abroad. The platform guides users step-by-step through the full trip planning process: choosing a destination country and region, finding flights and airports, selecting accommodations (including camping options), and filtering dining options by kosher or non-kosher preferences. The overall vision is an organized, structured trip planner that covers every detail from departure to return.
+
+## Target Audience
+- מטיילים ישראלים המתכננים טיולים לחו"ל, כולל שומרי כשרות ולא שומרי כשרות
+- מטיילים ישראלים לחו"ל
+- מטיילים שומרי כשרות
+- מטיילים חובבי יוקרה
+
+## Industry
+Travel Planning
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://we-fly-d228e938.zappy5.app/sitemap.xml
+- Robots: https://we-fly-d228e938.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://we-fly-d228e938.zappy5.app/llms-full.txt
